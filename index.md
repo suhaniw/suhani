@@ -1,15 +1,16 @@
----
-layout: default
-title: Student Blog
----
 
+# All about Suhani
+learn about me
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## table of contents
+1. overview
+2. hobbies and interests
+3. pictures
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+# overview
+My name is Suhani, I'm in 9th grade and my favorite colors are blue and yellow. I have a a younger brother and a dog named Luna. 
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+# hobbies and interests:
+I love music, from listening to spotify to playing the piano and guitar. I also like to write and read poetry and short stories. I enjoy spending time with my family and friends, and we play board games and sports like tennis and football.
+
+# pictures 
